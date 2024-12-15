@@ -5,7 +5,7 @@ This project was initiated from the frequency of wanting to make transactions on
 ## What You'll Need
 - Python version (3.x) that support Transformers, Torch, FastAPI library
 - Install required library (transformers, huggingface_hub, fastapi[standard], torch)
--  <bold>optional</bold> You can deploy the current model to Cloud platform
+-  **optional**, You can deploy the current model to Cloud platform
 
 ## Testing Result
 ### Classification Report
