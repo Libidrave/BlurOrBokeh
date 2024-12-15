@@ -1,0 +1,1 @@
+directory to store uploaded image files, and automatically deleted all files when refreshing FastAPI
