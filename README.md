@@ -14,4 +14,4 @@ This project was initiated from the frequency of wanting to make transactions on
 ### Endpoint Testing
 ![test](https://github.com/user-attachments/assets/a96d59cf-c279-447b-9dbb-2d846114eeb3)
 
-![Access Model](https://huggingface.co/Libidrave/BlurorBokehv2)
+[Access Model](https://huggingface.co/Libidrave/BlurorBokehv2)
